@@ -1,6 +1,6 @@
 ## What is Bumpy?
 
-![](2018-08-11-11-32-44.png)
+![](bumpy_front.jpg)
 
 **Bumpy** is an inexpensive Open Source **blackmagic probe** compatible SWD debugger designed to
 be used with ARM GDB. It supports [many platforms][3], but was primarily designed
@@ -20,6 +20,8 @@ that fits our budget, albeit with less capabilities.
 is based on both BMP and Chinese **St-Link V2** clones available for cheap in the market.
 
 Schematic : [download](schematic.pdf)
+
+Datasheet : [download](docs/bumpy-datasheet.pdf)
 
 ## Plugging in Bumpy
 
